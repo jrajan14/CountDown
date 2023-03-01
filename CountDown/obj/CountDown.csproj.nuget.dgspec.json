@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROJECTS\\VisualStudio\\CSharp\\CountDown\\CountDown\\CountDown.csproj": {}
+    "E:\\GitHub\\CountDown\\CountDown\\CountDown.csproj": {}
   },
   "projects": {
-    "E:\\PROJECTS\\VisualStudio\\CSharp\\CountDown\\CountDown\\CountDown.csproj": {
+    "E:\\GitHub\\CountDown\\CountDown\\CountDown.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROJECTS\\VisualStudio\\CSharp\\CountDown\\CountDown\\CountDown.csproj",
+        "projectUniqueName": "E:\\GitHub\\CountDown\\CountDown\\CountDown.csproj",
         "projectName": "CountDown",
-        "projectPath": "E:\\PROJECTS\\VisualStudio\\CSharp\\CountDown\\CountDown\\CountDown.csproj",
+        "projectPath": "E:\\GitHub\\CountDown\\CountDown\\CountDown.csproj",
         "packagesPath": "C:\\Users\\Rajan\\.nuget\\packages\\",
-        "outputPath": "E:\\PROJECTS\\VisualStudio\\CSharp\\CountDown\\CountDown\\obj\\",
+        "outputPath": "E:\\GitHub\\CountDown\\CountDown\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

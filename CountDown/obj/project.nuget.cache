@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MvtN2c7T37EkZX6qd0T2AXx37X2LcbKk46vJgnX9efOGSz2LldSB7T1CAhV3g6Iq1xIB5fovQ50tXdxtCBF3Sw==",
+  "dgSpecHash": "+fGDez4J+xd7K1EdaLhMJbNPB00jsXljC4RVDCZ7/E51c0dHx10Hz0tcldENLP0yVM8vFmH1k9dvTq0IqoUNSw==",
   "success": true,
-  "projectFilePath": "E:\\PROJECTS\\VisualStudio\\CSharp\\CountDown\\CountDown\\CountDown.csproj",
+  "projectFilePath": "E:\\GitHub\\CountDown\\CountDown\\CountDown.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.12-rel-31116-00\\microsoft.net.native.compiler.2.2.12-rel-31116-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.14\\microsoft.net.uwpcoreruntimesdk.2.2.14.nupkg.sha512",
