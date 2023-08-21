@@ -18,4 +18,7 @@ Stay productive with visual and audible cues.
 Contributions:
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request.
 
+### Note:
+This project was created as a personal project to practice C# programming and UI development. It's open for use and modification, but there might be limitations in terms of feature completeness and robustness.
 
+Feel free to adapt and expand this description according to your project's specific details and features.
