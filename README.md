@@ -1,4 +1,4 @@
-# CountDown    
+# CountDown     
 
 A simple and versatile countdown timer application implemented in C#. This project provides an easy-to-use interface for setting countdown durations and starting the timer. It's designed to be flexible and can be used for various scenarios, such as timing tasks, breaks, or events. The timer offers visual and audible notifications upon completion, ensuring you stay on track. Feel free to contribute and customize to suit your needs!
 
